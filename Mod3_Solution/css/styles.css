@@ -1,0 +1,43 @@
+body{
+  margin:0;
+  padding:0;
+}
+
+header {
+	
+	color:#000000;
+  font-weight: bold;
+  padding-top:50px;
+  font-size:2.5em;
+   
+	
+}
+
+.navbar{
+	background-color:#b3b3cc;
+}
+
+ .navbar-brand{
+      color:#000000;
+      font-weight: bold;
+}
+
+h2{
+  text-align: center;
+  color:#000000;
+  font-weight: bold;
+  margin-top:10px;
+  padding-top:10px;	
+}
+
+ #food{
+	background-color:#b3b3cc;
+	padding:10px;
+	text-align:justify;
+  height:1000px;
+}
+li{
+ text-align:center;
+ font-weight: bold;
+ font-size:2em;
+}
